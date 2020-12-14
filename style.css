@@ -70,5 +70,5 @@ html{
     scroll-behavior: smooth;
 }
 .icons{
-    width: 50px;
+   display:inline;
 }
